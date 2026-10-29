@@ -9,3 +9,5 @@ I'm now going to start two projects `CyborgPL` (a computer language, not the sam
 tiny checkpoint: CyborgPL older than AHPCL, while remaining more active than it. it's at 800+ commits, and it's currently paused waiting for RRx2 (which is Alive2 for CyborgPL, not forked though.)
 
 RRx2 is abandoned, but here's a flex: `whois rrx2.com`
+
+GO2 is _
