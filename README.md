@@ -10,4 +10,6 @@ tiny checkpoint: CyborgPL older than AHPCL, while remaining more active than it.
 
 RRx2 is abandoned, but here's a flex: `whois rrx2.com`
 
-GO2 is _
+GO2 is 
+
+My personal coding experience: I don't know how to print a variable in Python, and I'm genuinely not lying saying that.
